@@ -1,11 +1,15 @@
-# Pokemon List App 
+# Pokemon List App
 ## Intro to UITableViewController
-A UITableViewController implementation to showcase
+A tiny little app to showcase
+- Various UITableViewController components
 - UISearchController
-- UIRefreshControl 
-- and various UITableViewController components
+- UIRefreshControl
 
 ![sample](https://dl.dropboxusercontent.com/u/17243/meetup/pokemonListDemo.gif)
+
+## Build
+1. Make sure [Cocoapods](https://cocoapods.org/) is installed, and run `$pod install` in Terminal at the project root directory
+2. Open `PokemonList.xcworkspace` with Xcode
 
 ## LICENSE
 MIT License
